@@ -5,7 +5,7 @@
 
 class hetfo {
   public:
-    Hetfo();
+    hetfo();
     void koszones(); // Kiír egy üzenetet a Soros Monitorra
 };
 
